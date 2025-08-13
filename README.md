@@ -73,8 +73,11 @@ Random Forest achieved near-perfect and consistent accuracy across folds.
 ---
 
 ## Visualizations
-- **Decision Tree Plot** — Shows the decision-making path.  
-- **Feature Importance Chart** — Highlights most impactful features.
+- **Decision Tree Plot** — Shows the decision-making path.
+  
+  <img width="950" height="482" alt="image" src="https://github.com/user-attachments/assets/ad9cee04-2f84-49a1-8385-9ddc4b7c723c" />
+
+
 
 ---
 
